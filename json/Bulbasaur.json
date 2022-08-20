@@ -1,0 +1,23 @@
+{
+    "name": "Bulbasaur",
+    "type": [
+        "Grass",
+        "Poison"
+    ],
+    "weaknesses": [
+        "Fire",
+        "Ice",
+        "Flying",
+        "Psychic"
+    ],
+    "next_evolution": [
+        {
+            "num": "002",
+            "name": "Ivysaur"
+        },
+        {
+            "num": "003",
+            "name": "Venusaur"
+        }
+    ]
+}
